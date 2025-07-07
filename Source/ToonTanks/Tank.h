@@ -18,6 +18,8 @@ class TOONTANKS_API ATank : public ABasePawn
 public:
 	ATank();
 
+	virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
+
 private:
 
 	UPROPERTY(VisibleAnywhere, Category="Components")
@@ -25,4 +27,6 @@ private:
 
 	UPROPERTY(VisibleAnywhere, Category="Components")
 	UCameraComponent* Camera;
+
+	void Move(float Value);
 };
