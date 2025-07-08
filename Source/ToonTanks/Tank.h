@@ -19,6 +19,12 @@ public:
 	ATank();
 
 	virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
+
+protected:
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
 
 private:
 
@@ -27,13 +33,16 @@ private:
 
 	UPROPERTY(VisibleAnywhere, Category="Components")
 	UCameraComponent* Camera;
-
-	void Move(float Value);
-	void Turn(float Value);
-
+	
 	UPROPERTY(EditAnywhere, Category="Movement")
 	float Speed = 300.f;
 
 	UPROPERTY(EditAnywhere, Category="Movement")
 	float TurnRate = 100.f;
+
+	void Move(float Value);
+	void Turn(float Value);
+
+	UPROPERTY()
+	APlayerController* PlayerControllerRef;
 };
