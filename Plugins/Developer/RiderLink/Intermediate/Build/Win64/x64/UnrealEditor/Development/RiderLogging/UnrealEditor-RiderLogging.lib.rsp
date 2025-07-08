@@ -6,8 +6,6 @@
 /NAME:"UnrealEditor-RiderLogging.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/RiderLogging.cpp.obj"
-"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/RiderOutputDevice.cpp.obj"
-"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/PerModuleInline.gen.cpp.obj"
+"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/Module.RiderLogging.cpp.obj"
 "C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/Default.rc2.res"
 /OUT:"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.lib"

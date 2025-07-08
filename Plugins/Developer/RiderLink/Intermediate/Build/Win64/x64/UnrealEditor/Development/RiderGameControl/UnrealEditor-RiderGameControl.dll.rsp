@@ -36,8 +36,7 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/RiderGameControl.cpp.obj"
-"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/PerModuleInline.gen.cpp.obj"
+"C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Module.RiderGameControl.cpp.obj"
 "C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Default.rc2.res"
 "C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/UnrealEditor-RD.lib"
 "C:/GameDev/UE5Projects/ToonTanks/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.lib"
